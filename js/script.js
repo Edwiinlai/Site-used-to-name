@@ -1,5 +1,5 @@
 var g_Interval = 1;
-var g_PersonCount = 500;//参加抽奖人数
+var g_PersonCount = 54;//参加抽奖人数
 var g_Timer;
 var running = false;
 function beginRndNum(trigger){
